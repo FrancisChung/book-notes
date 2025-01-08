@@ -1,4 +1,4 @@
-# 📚 Francis Chung's Book Notes  
+# 📚 Francis Chung's Book Notes (WIP!)
 
 Welcome to my **Book Notes** repository! 
 
