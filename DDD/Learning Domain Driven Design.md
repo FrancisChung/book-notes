@@ -15,7 +15,22 @@
 ## Chapter Summaries
 
 - **Key Concepts:**  
-	- **TBD** 
+	- **Chapter 1** 
+      - Business Domain - A company’s main area of activity. Generally speaking, it’s
+the service the company provides to its clients.
+      - Subdomain -  A subdomain is a fine-grained area of business activity. All of a company’s subdomains form its business domain.
+        - Core Subdomain - A core subdomain is what a company does differently from its competitors
+          - Example : For Google, the ranking algorithm is a core subdomain
+          -  Although the search engine is not a paid service, it serves as the
+largest display platform for Google Ads. Its ability to provide excellent search results
+is what drives traffic, and subsequently, it is an important component of the Ads platform.
+          - Core subdomains are naturally complex
+          - There should be high entry barriers for a company’s core business; it should be hard for
+competitors to copy or imitate the company’s solution
+          - Core subdomains are not
+necessarily technical.
+            - Example : A jewelry maker selling its products online. The online shop is
+important, but it’s not a core subdomain. The jewelry design is
    
 	
 - **Notable Quotes/Excerpts:**  
