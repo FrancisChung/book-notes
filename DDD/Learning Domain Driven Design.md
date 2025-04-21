@@ -18,7 +18,7 @@
 	- **Chapter 1**<br>
       - ***Business Domain*** - A company’s main area of activity. Generally speaking, it’s the service the company provides to its clients.<br><br>
       - ***Subdomain*** -  A subdomain is a fine-grained area of business activity. All of a company’s subdomains form its business domain. <br><br>
-        - **Core Subdomain*** - A core subdomain is what a company does differently from its competitors.
+        - ***Core Subdomain*** - A core subdomain is what a company does differently from its competitors.
           - Example : For Google, the ranking algorithm is a core subdomain 
           - Although the search engine is not a paid service, it serves as the largest display platform for Google Ads.
           - Its ability to provide excellent search results is what drives traffic, and subsequently, it is an important component of the Ads platform.
@@ -34,9 +34,20 @@
           - Example : An online advertising company whose core subdomains include matching ads to visitors, optimizing the ads’ effectiveness, and minimizing the cost of ad space. However, to achieve success in these areas, the company needs to catalog its creative materials.
           - The creative catalog is essential for implementing the company’s advertising management and serving systems. That makes the content cataloging solution one of the company’s **supporting subdomains**
           - Supporting subdomains are simple
-                - Their business logic resembles mostly data entry screens and ETL (extract, transform, load) operations; that is, the so-called CRUD (create, read, update, and delete) interfaces.
+          - Their business logic resembles mostly data entry screens and ETL (extract, transform, load) operations; that is, the so-called CRUD (create, read, update, and delete) interfaces. <br><br>
    
-	
+      - ***Comparing Subdomains***
+        - ****Competitive Advantage****
+          - Only Core Subdomains offer a competitive advantage
+          - Generic & Supporting Subdomains don't offer a competitive advantage
+          
+        - ****Complexity****
+          - Core Subdomain : Complex
+          - Generic Subdomain : More complex than Supporting
+          - Supporting Subdomain : Simple (Basic ETL, CRUD Apps)
+          - ![img.png](img.png)
+        - ****Volatility****
+        - Solution Strategy
 - **Notable Quotes/Excerpts:**  
 
 	- "TBD" - Author TBD
